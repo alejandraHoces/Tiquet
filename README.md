@@ -19,7 +19,7 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 ### Skateholders presentes en la reunión y preguntas a realizar:  
 <dl>
   <dt>CEO:</dt>  
-  <dd>¿Cuáles son las fechas críticas (hitos) del proyecto?</dd>  
+  <dd>¿Cuáles son las fechas críticas (hitos) del proyecto?</dd>
   <dd>¿Qué expectativas tiene del proyecto a realizar?</dd>  
 <dd>¿Qué beneficios, cual es el valor que aportará a la organización? (tanto a tu organización como al cliente)</dd>  
 <dt>Gerente de riesgos:</dt>  
