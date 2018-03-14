@@ -4,7 +4,8 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 [Laboratoria](http://laboratoria.la)  
 ### Objetivo del proyecto
 ### Modelo de Negocio  
-![copia de business model canvas blog](https://user-images.githubusercontent.com/31807340/37433265-3fb2cf92-27a9-11e8-9061-1a13cc9e4291.png)  
+![copia de business model canvas blog 1](https://user-images.githubusercontent.com/31807340/37433462-0bb92820-27aa-11e8-81e5-3fa436a367ed.png)
+
 **Se plantea una reunion con el equipo de trabajo para facilitar la comunicación en el proyecto.**  
 ### Planning Kick-off meeting: 
 - Entender el entorno (la organización, el sector) en el que se va a desarrollar el proyecto.  
@@ -33,9 +34,9 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 </dl>  
 
 ### Plan de investigación:  
-- Revisar análitica (3 días):Investigacion sobre el porcentaje de usuarios que alguna vez han adquirido reventas de tickets.
-- Análisis competitivo y benchmark (3 días): Realización del estudio de mercado de las competencias y tener dato de como funcionan cada una de ellas y rescatar sus mejores practicas.
-- Hacer entrevistas con usuarios (5 días):Entrevistas a usuarios con el fin de entender sus necesidades y poder cubrirlas en su mayoria.
-- Hacer entrevistas con expertos (1 día) :Entrevistas a expertos con el fin de tener una orientacion mejor sobre el proyecto.
-- Hacer sesiones de testing de la aplicación actual (4 días) :Se realiza un testeo con lo usuarios sobre la nueva propuesta del banco digital con el fin de verificar su usabilidad.
-- Sintetizar los findings (2 días): Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable. 
+**- Revisar análitica**:Investigacion sobre el porcentaje de usuarios que alguna vez han adquirido reventas de tickets.
+**- Análisis competitivo y benchmark**: Realización del estudio de mercado de las competencias y tener dato de como funcionan cada una de ellas y rescatar sus mejores practicas.
+**- Hacer entrevistas con usuarios**:Entrevistas a usuarios con el fin de entender sus necesidades y poder cubrirlas en su mayoria.
+**- Hacer entrevistas con expertos**:Entrevistas a expertos con el fin de tener una orientacion mejor sobre el proyecto.
+**- Hacer sesiones de testing de la aplicación actual**:Se realiza un testeo con lo usuarios sobre la nueva propuesta del banco digital con el fin de verificar su usabilidad.
+**- Sintetizar los findings**: Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable. 
