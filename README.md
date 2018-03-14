@@ -17,17 +17,17 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 - Designar y confirmar los roles y responsabilidades de todos los participantes.
 
 ### Skateholders presentes en la reunión y preguntas a realizar:  
-
-**CEO:**  
-¿Cuáles son las fechas críticas (hitos) del proyecto?  
-¿Qué expectativas tiene del proyecto a realizar?  
-¿Qué beneficios, cual es el valor que aportará a la organización? (tanto a tu organización como al cliente)..  
-**Gerente de riesgos:**  
-¿Cuáles son los principales riesgos asociados al proyecto?  
-**Gerente de IT:**  
-¿Existe algún supuesto, premisa, restricción o exclusión que tengas que tener en cuenta?  
-¿Cuál es el alcance del proyecto y sus entregables principales?  
-**UX Designer:**  
-¿Qué procesos realizará para crear una we que cubra todas las necesidades del usuario?  
-¿Qué metodología utilizará para crear la Web/App con contenido útil y de lenguaje amigalbe para los millennials?  
-
+<dl>
+  <dt>CEO:</dt>  
+  <dd>¿Cuáles son las fechas críticas (hitos) del proyecto?</dd>  
+  <dd>¿Qué expectativas tiene del proyecto a realizar?</dd>  
+<dd>¿Qué beneficios, cual es el valor que aportará a la organización? (tanto a tu organización como al cliente)</dd>  
+<dt>Gerente de riesgos:</dt>  
+  <dd>¿Cuáles son los principales riesgos asociados al proyecto?</dd>  
+  <dt>Gerente de IT:</dt>  
+  <dd>¿Existe algún supuesto, premisa, restricción o exclusión que tengas que tener en cuenta?</dd>  
+  <dd>¿Cuál es el alcance del proyecto y sus entregables principales?</dd>  
+<dt>UX Designer:</dt>  
+  <dd>¿Qué procesos realizará para crear una we que cubra todas las necesidades del usuario?</dd>  
+<dd>¿Qué metodología utilizará para crear la Web/App con contenido útil y de lenguaje amigalbe para los millennials?</dd>  
+</dl>
