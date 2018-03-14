@@ -38,5 +38,5 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 **- Análisis competitivo y benchmark**: Realización del estudio de mercado de las competencias y tener dato de como funcionan cada una de ellas y rescatar sus mejores practicas.  
 **- Hacer entrevistas con usuarios**:Entrevistas a usuarios con el fin de entender sus necesidades y poder cubrirlas en su mayoria.  
 **- Hacer entrevistas con expertos**:Entrevistas a expertos con el fin de tener una orientacion mejor sobre el proyecto.  
-**- Hacer sesiones de testing de la aplicación actual**:Se realiza un testeo con lo usuarios sobre la nueva propuesta del banco digital con el fin de verificar su usabilidad.  
+**- Hacer sesiones de testing de la aplicación actual**:Se realiza un testeo con lo usuarios sobre la nueva propuesta del producto digital con el fin de verificar su usabilidad.  
 **- Sintetizar los findings**: Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable.  
