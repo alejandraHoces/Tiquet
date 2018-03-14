@@ -35,9 +35,9 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 </dl>  
 
 ### Plan de investigación:  
-- Revisar análitica (3 días)
-- Análisis competitivo y benchmark (3 días)
-- Hacer entrevistas con usuarios (5 días)
-- Hacer entrevistas con expertos (1 día)
-- Hacer sesiones de testing de la aplicación actual (4 días)
-- Sintetizar los findings (2 días)
+- Revisar análitica (3 días):Investigacion sobre el porcentaje de usuarios que alguna vez han adquirido reventas de tickets.
+- Análisis competitivo y benchmark (3 días): Realización del estudio de mercado de las competencias y tener dato de como funcionan cada una de ellas y rescatar sus mejores practicas.
+- Hacer entrevistas con usuarios (5 días):Entrevistas a usuarios con el fin de entender sus necesidades y poder cubrirlas en su mayoria.
+- Hacer entrevistas con expertos (1 día) :Entrevistas a expertos con el fin de tener una orientacion mejor sobre el proyecto.
+- Hacer sesiones de testing de la aplicación actual (4 días) :Se realiza un testeo con lo usuarios sobre la nueva propuesta del banco digital con el fin de verificar su usabilidad.
+- Sintetizar los findings (2 días): Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable. 
