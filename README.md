@@ -26,7 +26,7 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 <dt>Gerente de riesgos:</dt>  
   <dd>¿Cuáles son los principales riesgos asociados al proyecto?</dd>  
   <dt>Gerente de IT:</dt>  
-  <dd>¿Existe algún supuesto, premisa, restricción o exclusión que tengas que tener en cuenta?</dd>  
+  <dd>¿Existe algún supuesto, premisa, restricción o exclusión que tenga que tener en cuenta?</dd>  
   <dd>¿Cuál es el alcance del proyecto y sus entregables principales?</dd>  
 <dt>UX Designer:</dt>  
   <dd>¿Qué procesos realizará para crear una web/app que cubra todas las necesidades del usuario?</dd>  
@@ -34,9 +34,9 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 </dl>  
 
 ### Plan de investigación:  
-**- Revisar análitica**:Investigacion sobre el porcentaje de usuarios que alguna vez han adquirido reventas de tickets.
-**- Análisis competitivo y benchmark**: Realización del estudio de mercado de las competencias y tener dato de como funcionan cada una de ellas y rescatar sus mejores practicas.
-**- Hacer entrevistas con usuarios**:Entrevistas a usuarios con el fin de entender sus necesidades y poder cubrirlas en su mayoria.
-**- Hacer entrevistas con expertos**:Entrevistas a expertos con el fin de tener una orientacion mejor sobre el proyecto.
-**- Hacer sesiones de testing de la aplicación actual**:Se realiza un testeo con lo usuarios sobre la nueva propuesta del banco digital con el fin de verificar su usabilidad.
-**- Sintetizar los findings**: Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable. 
+**- Revisar análitica**:Investigacion sobre el porcentaje de usuarios que alguna vez han adquirido reventas de tickets.  
+**- Análisis competitivo y benchmark**: Realización del estudio de mercado de las competencias y tener dato de como funcionan cada una de ellas y rescatar sus mejores practicas.  
+**- Hacer entrevistas con usuarios**:Entrevistas a usuarios con el fin de entender sus necesidades y poder cubrirlas en su mayoria.  
+**- Hacer entrevistas con expertos**:Entrevistas a expertos con el fin de tener una orientacion mejor sobre el proyecto.  
+**- Hacer sesiones de testing de la aplicación actual**:Se realiza un testeo con lo usuarios sobre la nueva propuesta del banco digital con el fin de verificar su usabilidad.  
+**- Sintetizar los findings**: Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable.  
