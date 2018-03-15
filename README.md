@@ -49,4 +49,8 @@ Se realiza un testeo con lo usuarios sobre la nueva propuesta del producto digit
 **Sintetizar los findings**:  
 Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable.  
 
-### Proceso de diseño
+### Proceso de diseño  
+### Fase de descubrimiento  
+#### Conociendo a los usuarios  
+Creé una encuesta online para poder averiguar exactamente quiénes eran mis usuarios. Quería averiguar sobre sus actividades diarias, sus hobbies y cómo compran sus entradas. Estas preguntas fueron compartidas a través de foros en línea, redes sociales y correo electrónico y fueron completadas por 30 encuestados.  
+**Estos son algunos de mis descubrimientos clave a través de mis encuestas**  
