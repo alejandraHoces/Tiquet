@@ -18,9 +18,9 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 - Identificar las distintas expectativas sobre el proyecto.
 - Designar y confirmar los roles y responsabilidades de todos los participantes.
 
-### Principales Stakeholders y preguntas a realizar:
+### Principales Stakeholders y preguntas a realizar
 <dl>
-  <dt>CEO:</dt>  
+  <dd>**CEO:**</dd>  
   <dd>¿Cuáles son las fechas críticas (hitos) del proyecto?</dd>
   <dd>¿Qué expectativas tiene del proyecto a realizar?</dd>    
 <dt>Gerente de riesgos:</dt>  
@@ -33,10 +33,12 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 <dd>¿Qué metodología utilizará para crear la Web/App con contenido útil y de lenguaje amigable para los millennials?</dd>  
 </dl>  
 
-### Plan de investigación:  
+### Plan de investigación  
 **- Revisar análitica**:Investigacion sobre el porcentaje de usuarios que alguna vez han adquirido reventas de tickets.  
 **- Análisis competitivo y benchmark**: Realización del estudio de mercado de las competencias y tener dato de como funcionan cada una de ellas y rescatar sus mejores practicas.  
 **- Hacer entrevistas con usuarios**:Entrevistas a usuarios con el fin de entender sus necesidades y poder cubrirlas en su mayoria.  
 **- Hacer entrevistas con expertos**:Entrevistas a expertos con el fin de tener una orientacion mejor sobre el proyecto.  
 **- Hacer sesiones de testing de la aplicación actual**:Se realiza un testeo con lo usuarios sobre la nueva propuesta del producto digital con el fin de verificar su usabilidad.  
 **- Sintetizar los findings**: Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable.  
+
+### Proceso de diseño
