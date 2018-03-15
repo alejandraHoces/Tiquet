@@ -19,9 +19,10 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 - Designar y confirmar los roles y responsabilidades de todos los participantes.
 
 ### Principales Stakeholders y preguntas a realizar
-**CEO:**  
-  > ¿Cuáles son las fechas críticas (hitos) del proyecto?
-    ¿Qué expectativas tiene del proyecto a realizar?    
+**CEO:**
+> ¿Cuáles son las fechas críticas (hitos) del proyecto?
+  ¿Qué expectativas tiene del proyecto a realizar?    
+
 **Gerente de riesgos:**  
   > ¿Cuáles son los principales riesgos asociados al proyecto?</dd>  
 **Gerente de IT:**  
