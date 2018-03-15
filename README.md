@@ -35,7 +35,8 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
   ¿Qué metodología utilizará para crear la Web/App con contenido útil y de lenguaje amigable para los millennials?  
 
 ### Plan de investigación  
-**Revisar análitica**:Investigacion sobre el porcentaje de usuarios que alguna vez han adquirido reventas de tickets.  
+**Revisar análitica**:  
+Investigacion sobre el porcentaje de usuarios que alguna vez han adquirido reventas de tickets.  
 **Análisis competitivo y benchmark**: Realización del estudio de mercado de las competencias y tener dato de como funcionan cada una de ellas y rescatar sus mejores practicas.  
 **Hacer entrevistas con usuarios**:Entrevistas a usuarios con el fin de entender sus necesidades y poder cubrirlas en su mayoria.  
 **Hacer entrevistas con expertos**:Entrevistas a expertos con el fin de tener una orientacion mejor sobre el proyecto.  
