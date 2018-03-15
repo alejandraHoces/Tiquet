@@ -53,7 +53,8 @@ Sintetizar las principales concluciones del proyecto y añadirlos a nuestro prod
 ### Fase de descubrimiento  
 #### Conociendo a los usuarios  
 Creé una encuesta online para poder averiguar exactamente quiénes eran mis usuarios. Quería averiguar sobre sus actividades diarias, sus hobbies y cómo compran sus entradas. Estas preguntas fueron compartidas a través de foros en línea, redes sociales y correo electrónico y fueron completadas por 30 encuestados.  
-**Estos son algunos de mis descubrimientos clave a través de mis encuestas**  
+
+**Estos son algunos de mis descubrimientos claves a través de mi [encuesta online](https://goo.gl/forms/MXynp3f6UMMgOl9i2)**  
 -	El 90% de los usuarios asiste a festivales y conciertos cuando llegan sus artistas preferidos.  
 -	El 60% afirmo que realizan compras por internet.  
 -	El 50% de los encuestados ha comprado alguna vez una reventa de entrada.  
