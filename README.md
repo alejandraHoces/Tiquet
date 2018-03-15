@@ -54,3 +54,8 @@ Sintetizar las principales concluciones del proyecto y añadirlos a nuestro prod
 #### Conociendo a los usuarios  
 Creé una encuesta online para poder averiguar exactamente quiénes eran mis usuarios. Quería averiguar sobre sus actividades diarias, sus hobbies y cómo compran sus entradas. Estas preguntas fueron compartidas a través de foros en línea, redes sociales y correo electrónico y fueron completadas por 30 encuestados.  
 **Estos son algunos de mis descubrimientos clave a través de mis encuestas**  
+-	El 90% de los usuarios asiste a festivales y conciertos cuando llegan sus artistas preferidos.  
+-	El 60% afirmo que realizan compras por internet.  
+-	El 50% de los encuestados ha comprado alguna vez una reventa de entrada.  
+-	El 26% de los usuarios han realizado una reventa de entrada por que necesitaban la devolución del dinero.  
+-	El 70% de los encuestados afirmo que si hicieran una compra online desearían que se lo envíen a domicilio.  
