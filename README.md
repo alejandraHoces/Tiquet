@@ -61,7 +61,7 @@ Creé una encuesta online para poder averiguar exactamente quiénes eran mis usu
 -	El 26% de los usuarios han realizado una reventa de entrada por que necesitaban la devolución del dinero.  
 -	El 70% de los encuestados afirmo que si hicieran una compra online desearían que se lo envíen a domicilio.  
 
-**A partir de las respuestas destacadas que recibí, mis sentidos conceptuales comenzaron a funcionar. Luego procedí a [entrevistar](https://docs.google.com/document/d/1lWCwqWptWgWlj5Xv4QJqOzIhol7WXqf-dGxtPWPzL8M/edit?usp=sharing) de forma presencial a algunas personas para centrarme en su lenguaje corporal.**  
+**A partir de las respuestas destacadas que recibí, mis sentidos conceptuales comenzaron a funcionar. Luego procedí a [entrevistar de forma presencial](https://docs.google.com/document/d/1lWCwqWptWgWlj5Xv4QJqOzIhol7WXqf-dGxtPWPzL8M/edit?usp=sharing) a algunas personas para centrarme en su lenguaje corporal.**  
 
 #### User persona  
 Para poder comprender a mis usuarios, les hice preguntas a profundidad. Logré obtener motivaciones, frustraciones y datos interesantes de las entrevistas.
