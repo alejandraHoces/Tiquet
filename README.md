@@ -2,7 +2,7 @@
 Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo porque sus entradas se han agotado, pero eso no es problema ya que en este portal de compra y reventa de entradas aún tienes la posibilidad de reservar un sitio privilegiado para asistir a su concierto y verlo en el sitio que alijas. Este portal también es una solución tecnológica que simplifica la forma en la que se organiza y gestionan los conciertos y festivales vía online.  
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)  
-## Objetivo del proyecto
+### Objetivo del proyecto
 ### Modelo de Negocio  
 ![copia de business model canvas blog 1](https://user-images.githubusercontent.com/31807340/37433462-0bb92820-27aa-11e8-81e5-3fa436a367ed.png)
 
@@ -35,11 +35,18 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
   ¿Qué metodología utilizará para crear la Web/App con contenido útil y de lenguaje amigable para los millennials?  
 
 ### Plan de investigación  
-**Revisar análitica**:  Investigacion sobre el porcentaje de usuarios que alguna vez han adquirido reventas de tickets.  
-**Análisis competitivo y benchmark**:  Realización del estudio de mercado de las competencias y tener dato de como funcionan cada una de ellas y rescatar sus mejores practicas.  
-**Hacer entrevistas con usuarios**:  Entrevistas a usuarios con el fin de entender sus necesidades y poder cubrirlas en su mayoria.  
-**Hacer entrevistas con expertos**:  Entrevistas a expertos con el fin de tener una orientacion mejor sobre el proyecto.  
-**Hacer sesiones de testing de la aplicación actual**:  Se realiza un testeo con lo usuarios sobre la nueva propuesta del producto digital con el fin de verificar su usabilidad.  
-**Sintetizar los findings**:  Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable.  
 
-## Proceso de diseño
+**Revisar análitica**:  
+Investigacion sobre el porcentaje de usuarios que alguna vez han adquirido reventas de tickets.  
+**Análisis competitivo y benchmark**:  
+Realización del estudio de mercado de las competencias y tener dato de como funcionan cada una de ellas y rescatar sus mejores practicas.  
+**Hacer entrevistas con usuarios**:  
+Entrevistas a usuarios con el fin de entender sus necesidades y poder cubrirlas en su mayoria.  
+**Hacer entrevistas con expertos**:  
+Entrevistas a expertos con el fin de tener una orientacion mejor sobre el proyecto.  
+**Hacer sesiones de testing de la aplicación actual**:  
+Se realiza un testeo con lo usuarios sobre la nueva propuesta del producto digital con el fin de verificar su usabilidad.  
+**Sintetizar los findings**:  
+Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable.  
+
+### Proceso de diseño
