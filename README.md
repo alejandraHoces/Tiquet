@@ -24,13 +24,15 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
   ¿Qué expectativas tiene del proyecto a realizar?    
 
 **Gerente de riesgos:**  
-  > ¿Cuáles son los principales riesgos asociados al proyecto?</dd>  
+> ¿Cuáles son los principales riesgos asociados al proyecto?  
+
 **Gerente de IT:**  
-  > ¿Existe algún supuesto, premisa, restricción o exclusión que tenga que tener en cuenta?</dd>  
-    ¿Cuál es el alcance del proyecto y sus entregables principales?</dd>  
+> ¿Existe algún supuesto, premisa, restricción o exclusión que tenga que tener en cuenta?</dd>  
+  ¿Cuál es el alcance del proyecto y sus entregables principales?  
+    
 **UX Designer:**  
-  > ¿Qué procesos realizará para crear una web/app que cubra todas las necesidades del usuario?  
-    ¿Qué metodología utilizará para crear la Web/App con contenido útil y de lenguaje amigable para los millennials?  
+> ¿Qué procesos realizará para crear una web/app que cubra todas las necesidades del usuario?  
+  ¿Qué metodología utilizará para crear la Web/App con contenido útil y de lenguaje amigable para los millennials?  
 
 ### Plan de investigación  
 **Revisar análitica**:Investigacion sobre el porcentaje de usuarios que alguna vez han adquirido reventas de tickets.  
