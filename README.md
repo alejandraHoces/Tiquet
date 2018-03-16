@@ -64,5 +64,6 @@ Creé una encuesta online para poder averiguar exactamente quiénes eran mis usu
 **A partir de las respuestas destacadas que recibí, mis sentidos conceptuales comenzaron a funcionar. Luego procedí a [entrevistar de forma presencial](https://docs.google.com/document/d/1lWCwqWptWgWlj5Xv4QJqOzIhol7WXqf-dGxtPWPzL8M/edit?usp=sharing) a algunas personas para centrarme en su lenguaje corporal.**  
 
 #### User persona  
-Para poder comprender a mis usuarios, les hice preguntas a profundidad. Logré obtener motivaciones, frustraciones y datos interesantes de las entrevistas.
+Para poder comprender a mis usuarios, les hice preguntas a profundidad. Logré obtener motivaciones, frustraciones y datos interesantes de las entrevistas.  
 
+![desktop 1](https://user-images.githubusercontent.com/31807340/37505351-66b8079c-28b2-11e8-9c1a-6ae8cbe74567.png)
