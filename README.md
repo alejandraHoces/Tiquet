@@ -66,7 +66,7 @@ Creé una encuesta online para poder averiguar exactamente quiénes eran mis usu
 #### User persona  
 Para poder comprender a mis usuarios, les hice preguntas a profundidad. Logré obtener motivaciones, frustraciones y datos interesantes de las entrevistas.  
 
-![desktop 1](https://user-images.githubusercontent.com/31807340/37505351-66b8079c-28b2-11e8-9c1a-6ae8cbe74567.png)
+![desktop 2](https://user-images.githubusercontent.com/31807340/37547993-eef1c324-2942-11e8-832b-cb9486007747.png)
 
 #### Benchmarking  
 ![desktop 1](https://user-images.githubusercontent.com/31807340/37547389-5b01a038-293f-11e8-814a-dfd51e72884d.png)
