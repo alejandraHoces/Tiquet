@@ -4,7 +4,7 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 [Laboratoria](http://laboratoria.la)  
 ### Objetivo del proyecto
 ### Modelo de Negocio  
-![copia de business model canvas blog 1](https://user-images.githubusercontent.com/31807340/37433462-0bb92820-27aa-11e8-81e5-3fa436a367ed.png)
+![copia de business model canvas blog 2](https://user-images.githubusercontent.com/31807340/37548556-cb8713ea-2946-11e8-8c0c-71ee6e4f4e25.png)
 
 **Se plantea una reunion con el equipo de trabajo para facilitar la comunicación en el proyecto.**  
 ### Planning Kick-off meeting: 
@@ -69,4 +69,8 @@ Para poder comprender a mis usuarios, les hice preguntas a profundidad. Logré o
 ![desktop 2](https://user-images.githubusercontent.com/31807340/37547993-eef1c324-2942-11e8-832b-cb9486007747.png)
 
 #### Benchmarking  
-![desktop 1](https://user-images.githubusercontent.com/31807340/37547389-5b01a038-293f-11e8-814a-dfd51e72884d.png)
+Estudiar y comparar estas páginas webs me dio las ideas para explorar cómo puedo llevar este tipo de negocio a un nivel completamente nuevo.  
+
+![desktop 1](https://user-images.githubusercontent.com/31807340/37547389-5b01a038-293f-11e8-814a-dfd51e72884d.png)  
+
+**Algunas cosas que encontre en mi busqueda fueron:**
