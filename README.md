@@ -62,7 +62,8 @@ Creé una encuesta online para poder averiguar exactamente quiénes eran mis usu
 -	El 50% de los encuestados ha comprado alguna vez una reventa de entrada.  
 -	El 26% de los usuarios han realizado una reventa de entrada por que necesitaban la devolución del dinero.  
 -	El 70% de los encuestados afirmo que si hicieran una compra online desearían que se lo envíen a domicilio.  
-- El 40% de los encuestados indicaron que los revendedores aprovechan la necesidad del usuario para subir el precio de las entradas.
+- El 40% de los encuestados indicaron que los revendedores aprovechan la necesidad del usuario para subir el precio de las entradas.  
+
 **A partir de las respuestas destacadas que recibí, mis sentidos conceptuales comenzaron a funcionar. Luego procedí a [entrevistar de forma presencial](https://docs.google.com/document/d/1lWCwqWptWgWlj5Xv4QJqOzIhol7WXqf-dGxtPWPzL8M/edit?usp=sharing) a algunas personas para centrarme en su lenguaje corporal.**  
 
 #### Brainstorming  
