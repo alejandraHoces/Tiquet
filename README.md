@@ -1,13 +1,15 @@
-# digital-product  
+# TIQUET  
+
 Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo porque sus entradas se han agotado, pero eso no es problema ya que en este portal de compra y reventa de entradas aún tienes la posibilidad de reservar un sitio privilegiado para asistir a su concierto y verlo en el sitio que alijas. Este portal también es una solución tecnológica que simplifica la forma en la que se organiza y gestionan los conciertos y festivales vía online.  
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)  
+
 ### Objetivo del proyecto
-### Modelo de Negocio  
+#### Modelo de Negocio  
 ![copia de business model canvas blog 2](https://user-images.githubusercontent.com/31807340/37548556-cb8713ea-2946-11e8-8c0c-71ee6e4f4e25.png)
 
 **Se plantea una reunion con el equipo de trabajo para facilitar la comunicación en el proyecto.**  
-### Planning Kick-off meeting: 
+#### Planning Kick-off meeting: 
 - Entender el entorno (la organización, el sector) en el que se va a desarrollar el proyecto.  
 - Identificar y conocer los stakeholders (interesadores/afectados) del proyecto.
 - Mostrar el objetivo y misión del proyecto y su alcance.
@@ -18,7 +20,7 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 - Identificar las distintas expectativas sobre el proyecto.
 - Designar y confirmar los roles y responsabilidades de todos los participantes.
 
-### Principales Stakeholders y preguntas a realizar
+#### Principales Stakeholders y preguntas a realizar
 **CEO:**
 > ¿Cuáles son las fechas críticas (hitos) del proyecto?
   ¿Qué expectativas tiene del proyecto a realizar?    
@@ -34,7 +36,7 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 > ¿Qué procesos realizará para crear una web/app que cubra todas las necesidades del usuario?  
   ¿Qué metodología utilizará para crear la Web/App con contenido útil y de lenguaje amigable para los millennials?  
 
-### Plan de investigación  
+#### Plan de investigación  
 
 **Revisar análitica**:  
 Investigacion sobre el porcentaje de usuarios que alguna vez han adquirido reventas de tickets.  
@@ -49,7 +51,7 @@ Se realiza un testeo con lo usuarios sobre la nueva propuesta del producto digit
 **Sintetizar los findings**:  
 Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable.  
 
-### Proceso de diseño  
+#### Proceso de diseño  
 ![progress 1](https://user-images.githubusercontent.com/31807340/37636250-faba878e-2bce-11e8-8f56-000008a72cdd.png)  
 
 ### Fase de descubrimiento  
