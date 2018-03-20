@@ -51,7 +51,7 @@ Se realiza un testeo con lo usuarios sobre la nueva propuesta del producto digit
 **Sintetizar los findings**:  
 Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable.  
 
-#### Proceso de diseño  
+### Proceso de diseño  
 ![progress 1](https://user-images.githubusercontent.com/31807340/37636250-faba878e-2bce-11e8-8f56-000008a72cdd.png)  
 
 ### Fase de descubrimiento  
