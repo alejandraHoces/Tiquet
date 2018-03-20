@@ -50,6 +50,8 @@ Se realiza un testeo con lo usuarios sobre la nueva propuesta del producto digit
 Sintetizar las principales concluciones del proyecto y añadirlos a nuestro producto minimo viable.  
 
 ### Proceso de diseño  
+![progress 1](https://user-images.githubusercontent.com/31807340/37636250-faba878e-2bce-11e8-8f56-000008a72cdd.png)  
+
 ### Fase de descubrimiento  
 #### Conociendo a los usuarios  
 Creé una encuesta online para poder averiguar exactamente quiénes eran mis usuarios. Quería averiguar sobre sus actividades diarias, sus hobbies y cómo compran sus entradas. Estas preguntas fueron compartidas a través de foros en línea, redes sociales, correo electrónico y fueron completadas por 18 encuestados.  
