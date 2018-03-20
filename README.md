@@ -62,11 +62,14 @@ Creé una encuesta online para poder averiguar exactamente quiénes eran mis usu
 -	El 50% de los encuestados ha comprado alguna vez una reventa de entrada.  
 -	El 26% de los usuarios han realizado una reventa de entrada por que necesitaban la devolución del dinero.  
 -	El 70% de los encuestados afirmo que si hicieran una compra online desearían que se lo envíen a domicilio.  
-
+- El 40% de los encuestados indicaron que los revendedores aprovechan la necesidad del usuario para subir el precio de las entradas.
 **A partir de las respuestas destacadas que recibí, mis sentidos conceptuales comenzaron a funcionar. Luego procedí a [entrevistar de forma presencial](https://docs.google.com/document/d/1lWCwqWptWgWlj5Xv4QJqOzIhol7WXqf-dGxtPWPzL8M/edit?usp=sharing) a algunas personas para centrarme en su lenguaje corporal.**  
 
+#### Brainstorming  
+Se basa en toda la información de la investigación en etapa inicial. El diagrama de afinidad se utilizó para organizar y agrupar ideas en función a las respuestas de los usuarios. 
+
 #### User persona  
-Para poder comprender a mis usuarios, les hice preguntas a profundidad. Logré obtener motivaciones, frustraciones y datos interesantes de las entrevistas.  
+Los principales objetivos del usuario y una lista de características se generaron en la etapa de lluvia de ideas. Creamos un par de "personajes" ficticios para organizar y descubrir patrones en los objetivos, comportamientos y puntos débiles del usuario. Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que podríamos resolver.  
 
 ![desktop 2](https://user-images.githubusercontent.com/31807340/37547993-eef1c324-2942-11e8-832b-cb9486007747.png)
 
