@@ -4,8 +4,9 @@ Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo po
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)  
 
-### Objetivo del proyecto  
-Crear un producto tecnologico que solucione la necesidad de diferentes usuarios al darle la posibilidad de comprar una entrada que pudo estar agotada sin un incremento de su precio y sin temor a que sea falsa.
+### OBJETIVO DEL PROYECTO  
+Crear un producto tecnologico que le brinde al fan de la buena musica informacion de las presentaciones de sus bandas preferida y a su vez darle la posibilidad de comprar una entrada en reventa que pudo estar agotada, sin un incremento de su precio y sin temor a que sea falsa brindandole un buen servicio y seguridad.  
+
 #### Modelo de Negocio  
 ![copia de business model canvas blog](https://user-images.githubusercontent.com/31807340/37714275-24513f70-2ce7-11e8-8d4c-d006d0cd56ec.png)
 
@@ -55,7 +56,7 @@ Sintetizar las principales concluciones del proyecto y añadirlos a nuestro prod
 ### Proceso de diseño  
 ![progress 1](https://user-images.githubusercontent.com/31807340/37636250-faba878e-2bce-11e8-8f56-000008a72cdd.png)  
 
-### Fase de descubrimiento  
+### FASE DE DESCUBRIMIENTO
 #### Conociendo a los usuarios  
 Creé una encuesta online para poder averiguar exactamente quiénes eran mis usuarios. Quería averiguar sobre sus actividades diarias, sus hobbies y cómo compran sus entradas. Estas preguntas fueron compartidas a través de foros en línea, redes sociales, correo electrónico y fueron completadas por 18 encuestados.  
 
@@ -69,22 +70,27 @@ Creé una encuesta online para poder averiguar exactamente quiénes eran mis usu
 
 **A partir de las respuestas destacadas que recibí, mis sentidos conceptuales comenzaron a funcionar. Luego procedí a [entrevistar de forma presencial](https://docs.google.com/document/d/1lWCwqWptWgWlj5Xv4QJqOzIhol7WXqf-dGxtPWPzL8M/edit?usp=sharing) a algunas personas para centrarme en su lenguaje corporal.**  
 
-#### Brainstorming  
+#### BRAINSTORMING
 El diagrama de afinidad se utilizó para organizar y agrupar ideas en función a las respuestas de los usuarios. 
 
-#### User persona  
+#### USER PERSONA
 Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que podríamos resolver.  
 
 ![desktop 2](https://user-images.githubusercontent.com/31807340/37547993-eef1c324-2942-11e8-832b-cb9486007747.png)
 
-#### Benchmarking  
+#### BENCHMARKING
 Estudiar y comparar estas páginas webs me dio las ideas para explorar cómo puedo llevar este tipo de negocio a un nivel completamente nuevo.  
-**Algunas cosas que encontre en mi busqueda fueron:**
-**Stubhub** y **Ticketswep** es una pagina de reventa de entradas que realiza ventas de todo tipo de tiquets a nivel latinoamericano, tiene una forma de pago online y el recojo y entraga de entradas es a domicilio y es gratuita.
-**Viagogo** es una pagina de reventas tiene diferentes sedes de forma presencial pero la pagina es poco amigable no me permite ingresar a ver la informacion a menos de que me registre las imagenes en su web son de mala calidad, parece que no tiene un mantenimiento regular.
+**Algunas cosas que encontre en mi busqueda fueron:**  
+**Stubhub** y **Ticketswep** es una pagina de reventa de entradas que realiza ventas de todo tipo de tiquets a nivel latinoamericano, tiene una forma de pago online y el recojo y entraga de entradas es a domicilio y es gratuita.  
+**Viagogo** es una pagina de reventas tiene diferentes sedes de forma presencial pero la pagina es poco amigable no me permite ingresar a ver la informacion a menos de que me registre las imagenes en su web son de mala calidad, parece que no tiene un mantenimiento regular.  
 **Seatwave** es una servicio de reventa de entradas y tiene el apoyo de ticketea una empresa de ventas de tickets esta empresa realiza reventas online y su web cumple con las mejores practicas en este mercado.  
+![image](https://user-images.githubusercontent.com/31807340/37723919-95c9e77c-2cfd-11e8-8ca0-7196b4c19a73.png)  
 
-![desktop 9](https://user-images.githubusercontent.com/31807340/37720835-210b0792-2cf6-11e8-8c15-bf18b2475be2.png)
+#### PRINCIPALES PROBLEMAS ENCONTRADOS  
+A través de la investigación del usuario, el diagrama de afinidad y las personas, surgieron tres puntos principales de dolor a solucionar.  
+![rectangle 4](https://user-images.githubusercontent.com/31807340/37722669-9c45c614-2cfa-11e8-9f0e-ca135ed1b0c9.png)  
 
- 
+#### SITEMAP
+Oganizando todos los componentes e informacion de los contenidos de mi producto digital,Este diagrama me ayudara a comprender la estructura y el flujo de tareas que el usuario realizara.  
 
+#### PROTOTIPO INICIAL 
