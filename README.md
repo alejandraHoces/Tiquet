@@ -1,12 +1,13 @@
 # TIQUET! 🎫  
 
-Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo porque sus entradas se han agotado, pero eso no es problema ya que en este portal de compra y reventa de entradas aún tienes la posibilidad de reservar un sitio privilegiado para asistir a su concierto y verlo en el sitio que alijas. Este portal también es una solución tecnológica que simplifica la forma en la que se organiza y gestionan los conciertos y festivales vía online.  
+Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo porque sus entradas se han agotado, pero eso no es problema ya que en este portal de compra y reventa de entradas aún tienes la posibilidad de reservar un sitio privilegiado para asistir a su concierto y verlo en el sitio que alijas.
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)  
 
-### Objetivo del proyecto
+### Objetivo del proyecto  
+Crear un producto tecnologico que solucione la necesidad de diferentes usuarios al darle la posibilidad de comprar una entrada que pudo estar agotada sin un incremento de su precio y sin temor a que sea falsa.
 #### Modelo de Negocio  
-![copia de business model canvas blog 2](https://user-images.githubusercontent.com/31807340/37548556-cb8713ea-2946-11e8-8c0c-71ee6e4f4e25.png)
+![copia de business model canvas blog](https://user-images.githubusercontent.com/31807340/37714275-24513f70-2ce7-11e8-8d4c-d006d0cd56ec.png)
 
 **Se plantea una reunion con el equipo de trabajo para facilitar la comunicación en el proyecto.**  
 #### Planning Kick-off meeting: 
@@ -69,16 +70,21 @@ Creé una encuesta online para poder averiguar exactamente quiénes eran mis usu
 **A partir de las respuestas destacadas que recibí, mis sentidos conceptuales comenzaron a funcionar. Luego procedí a [entrevistar de forma presencial](https://docs.google.com/document/d/1lWCwqWptWgWlj5Xv4QJqOzIhol7WXqf-dGxtPWPzL8M/edit?usp=sharing) a algunas personas para centrarme en su lenguaje corporal.**  
 
 #### Brainstorming  
-Se basa en toda la información de la investigación en etapa inicial. El diagrama de afinidad se utilizó para organizar y agrupar ideas en función a las respuestas de los usuarios. 
+El diagrama de afinidad se utilizó para organizar y agrupar ideas en función a las respuestas de los usuarios. 
 
 #### User persona  
-Los principales objetivos del usuario y una lista de características se generaron en la etapa de lluvia de ideas. Creamos un par de "personajes" ficticios para organizar y descubrir patrones en los objetivos, comportamientos y puntos débiles del usuario. Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que podríamos resolver.  
+Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que podríamos resolver.  
 
 ![desktop 2](https://user-images.githubusercontent.com/31807340/37547993-eef1c324-2942-11e8-832b-cb9486007747.png)
 
 #### Benchmarking  
 Estudiar y comparar estas páginas webs me dio las ideas para explorar cómo puedo llevar este tipo de negocio a un nivel completamente nuevo.  
-
-![desktop 1](https://user-images.githubusercontent.com/31807340/37547389-5b01a038-293f-11e8-814a-dfd51e72884d.png)  
-
 **Algunas cosas que encontre en mi busqueda fueron:**
+**Stubhub** y **Ticketswep** es una pagina de reventa de entradas que realiza ventas de todo tipo de tiquets a nivel latinoamericano, tiene una forma de pago online y el recojo y entraga de entradas es a domicilio y es gratuita.
+**Viagogo** es una pagina de reventas tiene diferentes sedes de forma presencial pero la pagina es poco amigable no me permite ingresar a ver la informacion a menos de que me registre las imagenes en su web son de mala calidad, parece que no tiene un mantenimiento regular.
+**Seatwave** es una servicio de reventa de entradas y tiene el apoyo de ticketea una empresa de ventas de tickets esta empresa realiza reventas online y su web cumple con las mejores practicas en este mercado.  
+
+![desktop 9](https://user-images.githubusercontent.com/31807340/37720835-210b0792-2cf6-11e8-8c15-bf18b2475be2.png)
+
+ 
+
