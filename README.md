@@ -1,4 +1,4 @@
-# TIQUET! 🎫  
+# SZIGET! 🎫  
 
 Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo porque sus entradas se han agotado, pero eso no es problema ya que en este portal de compra y reventa de entradas aún tienes la posibilidad de reservar un sitio privilegiado para asistir a su concierto y verlo en el sitio que alijas.
 ## Desarrollado para
@@ -93,5 +93,6 @@ A través de la investigación del usuario, el diagrama de afinidad y las person
 
 #### SITEMAP
 Oganizando todos los componentes e informacion de los contenidos de mi producto digital,Este diagrama me ayudara a comprender la estructura y el flujo de tareas que el usuario realizara.  
+![rectangle 1](https://user-images.githubusercontent.com/31807340/37852901-58d253e8-2eb2-11e8-9fba-57d2aa44335a.png)
 
 #### PROTOTIPO INICIAL 
