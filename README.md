@@ -92,7 +92,7 @@ A través de la investigación del usuario, el diagrama de afinidad y las person
 ![rectangle 4](https://user-images.githubusercontent.com/31807340/37722669-9c45c614-2cfa-11e8-9f0e-ca135ed1b0c9.png)  
 
 #### SITEMAP
-Oganizando todos los componentes e informacion de los contenidos de mi producto digital,Este diagrama me ayudara a comprender la estructura y el flujo de tareas que el usuario realizara.  
+Oganizando todos los componentes e informacion de los contenidos de mi producto digital. 
 ![rectangle 1](https://user-images.githubusercontent.com/31807340/37852901-58d253e8-2eb2-11e8-9fba-57d2aa44335a.png)
 
 #### PROTOTIPO INICIAL 
