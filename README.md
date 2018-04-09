@@ -1,4 +1,4 @@
-# SZIGET! 🎫  
+# SZIGET  
 Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo porque sus entradas se han agotado, pero eso no es problema ya que en este portal de compra y reventa de entradas aún tienes la posibilidad de reservar un sitio privilegiado para asistir a su concierto y verlo en el sitio que alijas.   
 
 ![corel](https://user-images.githubusercontent.com/31807340/38483595-1ea66256-3b99-11e8-8bc3-407ea60b3dd6.png)  
