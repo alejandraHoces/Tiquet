@@ -1,5 +1,8 @@
 # SZIGET! 🎫  
-Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo porque sus entradas se han agotado, pero eso no es problema ya que en este portal de compra y reventa de entradas aún tienes la posibilidad de reservar un sitio privilegiado para asistir a su concierto y verlo en el sitio que alijas.
+Piensa en tu artista favorito sobre el escenario. Tal vez no has podido verlo porque sus entradas se han agotado, pero eso no es problema ya que en este portal de compra y reventa de entradas aún tienes la posibilidad de reservar un sitio privilegiado para asistir a su concierto y verlo en el sitio que alijas. 
+
+![corel](https://user-images.githubusercontent.com/31807340/38482995-fa86c8f4-3b96-11e8-88b7-e868a40abc60.png)  
+
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)  
 
