@@ -97,4 +97,6 @@ A través de la investigación del usuario, el diagrama de afinidad y las person
 Oganizando todos los componentes e informacion de los contenidos de mi producto digital. 
 ![rectangle 1](https://user-images.githubusercontent.com/31807340/37852901-58d253e8-2eb2-11e8-9fba-57d2aa44335a.png)
 
-#### PROTOTIPO INICIAL 
+#### PROTOTIPO INICIAL  
+
+![corel](https://user-images.githubusercontent.com/31807340/38592139-f9d9f1b4-3cff-11e8-9b77-132001c3035f.png)
