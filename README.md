@@ -76,10 +76,11 @@ Creé una encuesta online para poder averiguar exactamente quiénes eran mis usu
 #### BRAINSTORMING
 El diagrama de afinidad se utilizó para organizar y agrupar ideas en función a las respuestas de los usuarios. 
 
-#### USER PERSONA
-Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que podríamos resolver.  
+![29250464_1871267472945098_1513769868_o](https://user-images.githubusercontent.com/31807340/39109902-99b9faa6-4694-11e8-9010-477672b4b1da.jpg)
 
-![desktop 2](https://user-images.githubusercontent.com/31807340/37547993-eef1c324-2942-11e8-832b-cb9486007747.png)
+#### SITEMAP
+Oganizando todos los componentes e informacion de los contenidos de mi producto digital. 
+![rectangle 1](https://user-images.githubusercontent.com/31807340/37852901-58d253e8-2eb2-11e8-9fba-57d2aa44335a.png)
 
 #### BENCHMARKING
 Estudiar y comparar estas páginas webs me dio las ideas para explorar cómo puedo llevar este tipo de negocio a un nivel completamente nuevo.  
@@ -90,14 +91,14 @@ Estudiar y comparar estas páginas webs me dio las ideas para explorar cómo pue
 - **Seatwave** es una servicio de reventa de entradas y tiene el apoyo de ticketea una empresa de ventas de tickets esta empresa realiza reventas online y su web cumple con las mejores practicas en este mercado.  
 ![image](https://user-images.githubusercontent.com/31807340/37723919-95c9e77c-2cfd-11e8-8ca0-7196b4c19a73.png)  
 
+#### USER PERSONA
+Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que podríamos resolver.  
+
+![desktop 2](https://user-images.githubusercontent.com/31807340/37547993-eef1c324-2942-11e8-832b-cb9486007747.png)
+
 #### PRINCIPALES PROBLEMAS ENCONTRADOS  
 A través de la investigación del usuario, el diagrama de afinidad y las personas, surgieron tres puntos principales de dolor a solucionar.  
 ![rectangle 4](https://user-images.githubusercontent.com/31807340/37722669-9c45c614-2cfa-11e8-9f0e-ca135ed1b0c9.png)  
 
-#### SITEMAP
-Oganizando todos los componentes e informacion de los contenidos de mi producto digital. 
-![rectangle 1](https://user-images.githubusercontent.com/31807340/37852901-58d253e8-2eb2-11e8-9fba-57d2aa44335a.png)
-
 #### PROTOTIPO   
-
 ![corel](https://user-images.githubusercontent.com/31807340/38592139-f9d9f1b4-3cff-11e8-9b77-132001c3035f.png)
