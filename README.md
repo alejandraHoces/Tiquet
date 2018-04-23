@@ -88,7 +88,7 @@ Estudiar y comparar estas páginas webs me dio las ideas para explorar cómo pue
 ![image](https://user-images.githubusercontent.com/31807340/37723919-95c9e77c-2cfd-11e8-8ca0-7196b4c19a73.png)  
 
 #### ALGUNOS PROBLEMAS ENCONTRADOS  
-A través de la investigación del usuario, el diagrama de afinidad y las personas, surgieron tres puntos principales de dolor a solucionar.  
+A través de la investigación del usuario, el diagrama de afinidad, surgieron tres puntos principales de dolor a solucionar.  
 ![rectangle 7](https://user-images.githubusercontent.com/31807340/39154816-3e6363d2-4715-11e8-8d39-5a34d090e39d.png)  
 
 #### USER PERSONA
@@ -99,8 +99,9 @@ Cada uno de ellos representa un tipo de usuario, mi publico objetivo, sus necesi
 
 #### PROTOTIPO   
 Luego de realizar el protototipo en papel se paso a un prototipo en figma para validar el diseño de la aplicación implementando las mejoras y cubriendo los puntos de dolor.  
+
 ![corel](https://user-images.githubusercontent.com/31807340/39155462-c4e9d4a2-4717-11e8-8acf-8db11ee92e50.png)
 
 #### TESTEO Y FEEDBACK  
 
-**Ver prototipo aquí!!**  
+**[Ver producto minimo viable aquí!!](https://marvelapp.com/860537h)**  😊
