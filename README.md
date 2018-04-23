@@ -88,11 +88,10 @@ Estudiar y comparar estas páginas webs me dio las ideas para explorar cómo pue
 ![image](https://user-images.githubusercontent.com/31807340/37723919-95c9e77c-2cfd-11e8-8ca0-7196b4c19a73.png)  
 
 #### USER PERSONA
-Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que podríamos resolver.  
-
+Cada uno de ellos representa un tipo de usuario, mi publico objetivo.  
 ![desktop 2](https://user-images.githubusercontent.com/31807340/37547993-eef1c324-2942-11e8-832b-cb9486007747.png)
 
-#### PRINCIPALES PROBLEMAS ENCONTRADOS  
+#### ALGUNOS PROBLEMAS ENCONTRADOS  
 A través de la investigación del usuario, el diagrama de afinidad y las personas, surgieron tres puntos principales de dolor a solucionar.  
 ![rectangle 4](https://user-images.githubusercontent.com/31807340/37722669-9c45c614-2cfa-11e8-9f0e-ca135ed1b0c9.png)  
 
@@ -103,7 +102,7 @@ Oganizando todos los componentes e informacion de los contenidos de mi producto 
 ![rectangle 1](https://user-images.githubusercontent.com/31807340/37852901-58d253e8-2eb2-11e8-9fba-57d2aa44335a.png)
 
 #### PROTOTIPO INICIAL   
-Se realizó un prototipo en papel para validar el diseño de la aplicación
+Se realizó un prototipo en papel para validar el diseño de la aplicación implementando las mejoras y cubriendo los puntos de dolor.
 ![corel](https://user-images.githubusercontent.com/31807340/38592139-f9d9f1b4-3cff-11e8-9b77-132001c3035f.png)
 
 #### TESTEO Y FEEDBACK  
