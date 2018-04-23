@@ -89,8 +89,7 @@ Estudiar y comparar estas páginas webs me dio las ideas para explorar cómo pue
 
 #### ALGUNOS PROBLEMAS ENCONTRADOS  
 A través de la investigación del usuario, el diagrama de afinidad y las personas, surgieron tres puntos principales de dolor a solucionar.  
-![rectangle 4](https://user-images.githubusercontent.com/31807340/37722669-9c45c614-2cfa-11e8-9f0e-ca135ed1b0c9.png)  
-
+![rectangle 7](https://user-images.githubusercontent.com/31807340/39154816-3e6363d2-4715-11e8-8d39-5a34d090e39d.png)  
 
 #### USER PERSONA
 Cada uno de ellos representa un tipo de usuario, mi publico objetivo.  
