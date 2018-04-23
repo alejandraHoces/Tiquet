@@ -87,13 +87,14 @@ Estudiar y comparar estas páginas webs me dio las ideas para explorar cómo pue
 - **Seatwave** es una servicio de reventa de entradas y tiene el apoyo de ticketea una empresa de ventas de tickets esta empresa realiza reventas online y su web cumple con las mejores practicas en este mercado.  
 ![image](https://user-images.githubusercontent.com/31807340/37723919-95c9e77c-2cfd-11e8-8ca0-7196b4c19a73.png)  
 
-#### USER PERSONA
-Cada uno de ellos representa un tipo de usuario, mi publico objetivo.  
-![desktop 2](https://user-images.githubusercontent.com/31807340/37547993-eef1c324-2942-11e8-832b-cb9486007747.png)
-
 #### ALGUNOS PROBLEMAS ENCONTRADOS  
 A través de la investigación del usuario, el diagrama de afinidad y las personas, surgieron tres puntos principales de dolor a solucionar.  
 ![rectangle 4](https://user-images.githubusercontent.com/31807340/37722669-9c45c614-2cfa-11e8-9f0e-ca135ed1b0c9.png)  
+
+
+#### USER PERSONA
+Cada uno de ellos representa un tipo de usuario, mi publico objetivo.  
+![desktop 2](https://user-images.githubusercontent.com/31807340/37547993-eef1c324-2942-11e8-832b-cb9486007747.png)
 
 ## Producto minimo viable  
 
