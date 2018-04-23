@@ -59,7 +59,7 @@ Sintetizar las principales concluciones del proyecto y añadirlos a nuestro prod
 ### Proceso de diseño  
 ![progress 1](https://user-images.githubusercontent.com/31807340/37636250-faba878e-2bce-11e8-8f56-000008a72cdd.png)  
 
-### FASE DE DESCUBRIMIENTO
+### Investigación
 #### Conociendo a los usuarios  
 Creé una encuesta online para poder averiguar exactamente quiénes eran mis usuarios. Quería averiguar sobre sus actividades diarias, sus hobbies y cómo compran sus entradas. Estas preguntas fueron compartidas a través de foros en línea, redes sociales, correo electrónico y fueron completadas por 18 encuestados.  
 
@@ -72,15 +72,11 @@ Creé una encuesta online para poder averiguar exactamente quiénes eran mis usu
 - El 40% de los encuestados indicaron que los revendedores aprovechan la necesidad del usuario para subir el precio de las entradas.  
 
 **A partir de las respuestas destacadas que recibí, mis sentidos conceptuales comenzaron a funcionar. Luego procedí a [entrevistar de forma presencial](https://docs.google.com/document/d/1lWCwqWptWgWlj5Xv4QJqOzIhol7WXqf-dGxtPWPzL8M/edit?usp=sharing) a algunas personas para centrarme en su lenguaje corporal.**  
-
+Síntesis  
 #### BRAINSTORMING
 El diagrama de afinidad se utilizó para organizar y agrupar ideas en función a las respuestas de los usuarios. 
 
-![29250464_1871267472945098_1513769868_o](https://user-images.githubusercontent.com/31807340/39109902-99b9faa6-4694-11e8-9010-477672b4b1da.jpg)
-
-#### SITEMAP
-Oganizando todos los componentes e informacion de los contenidos de mi producto digital. 
-![rectangle 1](https://user-images.githubusercontent.com/31807340/37852901-58d253e8-2eb2-11e8-9fba-57d2aa44335a.png)
+![29250464_1871267472945098_1513769868_o](https://user-images.githubusercontent.com/31807340/39109902-99b9faa6-4694-11e8-9010-477672b4b1da.jpg)  
 
 #### BENCHMARKING
 Estudiar y comparar estas páginas webs me dio las ideas para explorar cómo puedo llevar este tipo de negocio a un nivel completamente nuevo.  
@@ -99,6 +95,11 @@ Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los 
 #### PRINCIPALES PROBLEMAS ENCONTRADOS  
 A través de la investigación del usuario, el diagrama de afinidad y las personas, surgieron tres puntos principales de dolor a solucionar.  
 ![rectangle 4](https://user-images.githubusercontent.com/31807340/37722669-9c45c614-2cfa-11e8-9f0e-ca135ed1b0c9.png)  
+
+Producto minimo viable  
+#### SITEMAP
+Oganizando todos los componentes e informacion de los contenidos de mi producto digital. 
+![rectangle 1](https://user-images.githubusercontent.com/31807340/37852901-58d253e8-2eb2-11e8-9fba-57d2aa44335a.png)
 
 #### PROTOTIPO   
 ![corel](https://user-images.githubusercontent.com/31807340/38592139-f9d9f1b4-3cff-11e8-9b77-132001c3035f.png)
