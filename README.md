@@ -72,7 +72,7 @@ Creé una encuesta online para poder averiguar exactamente quiénes eran mis usu
 - El 40% de los encuestados indicaron que los revendedores aprovechan la necesidad del usuario para subir el precio de las entradas.  
 
 **A partir de las respuestas destacadas que recibí, mis sentidos conceptuales comenzaron a funcionar. Luego procedí a [entrevistar de forma presencial](https://docs.google.com/document/d/1lWCwqWptWgWlj5Xv4QJqOzIhol7WXqf-dGxtPWPzL8M/edit?usp=sharing) a algunas personas para centrarme en su lenguaje corporal.**  
-Síntesis  
+### Síntesis  
 #### BRAINSTORMING
 El diagrama de afinidad se utilizó para organizar y agrupar ideas en función a las respuestas de los usuarios. 
 
@@ -96,10 +96,16 @@ Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los 
 A través de la investigación del usuario, el diagrama de afinidad y las personas, surgieron tres puntos principales de dolor a solucionar.  
 ![rectangle 4](https://user-images.githubusercontent.com/31807340/37722669-9c45c614-2cfa-11e8-9f0e-ca135ed1b0c9.png)  
 
-Producto minimo viable  
+## Producto minimo viable  
+
 #### SITEMAP
 Oganizando todos los componentes e informacion de los contenidos de mi producto digital. 
 ![rectangle 1](https://user-images.githubusercontent.com/31807340/37852901-58d253e8-2eb2-11e8-9fba-57d2aa44335a.png)
 
-#### PROTOTIPO   
+#### PROTOTIPO INICIAL   
+Se realizó un prototipo en papel para validar el diseño de la aplicación
 ![corel](https://user-images.githubusercontent.com/31807340/38592139-f9d9f1b4-3cff-11e8-9b77-132001c3035f.png)
+
+#### TESTEO Y FEEDBACK  
+
+**Ver prototipo aquí!!**  
