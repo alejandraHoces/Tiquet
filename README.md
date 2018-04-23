@@ -92,14 +92,14 @@ A través de la investigación del usuario, el diagrama de afinidad y las person
 ![rectangle 7](https://user-images.githubusercontent.com/31807340/39154816-3e6363d2-4715-11e8-8d39-5a34d090e39d.png)  
 
 #### USER PERSONA
-Cada uno de ellos representa un tipo de usuario, mi publico objetivo.  
+Cada uno de ellos representa un tipo de usuario, mi publico objetivo, sus necesidades y frustraciones a cubrir .  
 ![desktop 2](https://user-images.githubusercontent.com/31807340/37547993-eef1c324-2942-11e8-832b-cb9486007747.png)
 
 ## Producto minimo viable  
 
-#### PROTOTIPO INICIAL   
-Se realizó un prototipo en papel para validar el diseño de la aplicación implementando las mejoras y cubriendo los puntos de dolor.
-![corel](https://user-images.githubusercontent.com/31807340/38592139-f9d9f1b4-3cff-11e8-9b77-132001c3035f.png)
+#### PROTOTIPO   
+Luego de realizar el protototipo en papel se paso a un prototipo en figma para validar el diseño de la aplicación implementando las mejoras y cubriendo los puntos de dolor.  
+![corel](https://user-images.githubusercontent.com/31807340/39155462-c4e9d4a2-4717-11e8-8acf-8db11ee92e50.png)
 
 #### TESTEO Y FEEDBACK  
 
