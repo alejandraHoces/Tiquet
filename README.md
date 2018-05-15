@@ -83,7 +83,8 @@ Estudiar y comparar estas páginas webs me dio las ideas para explorar cómo pue
 - **Stubhub** y **Ticketswep** es una pagina de reventa de entradas que realiza ventas de todo tipo de tiquets a nivel latinoamericano, tiene una forma de pago online y el recojo y entraga de entradas es a domicilio y es gratuita.  
 - **Viagogo** es una pagina de reventas tiene diferentes sedes de forma presencial pero la pagina es poco amigable no me permite ingresar a ver la informacion a menos de que me registre las imagenes en su web son de mala calidad, parece que no tiene un mantenimiento regular.  
 - **Seatwave** es una servicio de reventa de entradas y tiene el apoyo de ticketea una empresa de ventas de tickets esta empresa realiza reventas online y su web cumple con las mejores practicas en este mercado.  
-![image](https://user-images.githubusercontent.com/31807340/37723919-95c9e77c-2cfd-11e8-8ca0-7196b4c19a73.png)  
+
+![desktop 4](https://user-images.githubusercontent.com/31807340/40084787-e982869a-585d-11e8-9e7a-db9c777ed33c.png)
 
 #### ALGUNOS PROBLEMAS ENCONTRADOS  
 A través de la investigación del usuario, el diagrama de afinidad, surgieron tres puntos principales de dolor a solucionar.  
